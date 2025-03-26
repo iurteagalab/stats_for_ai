@@ -35,5 +35,5 @@ This course is nothing but my attempt to communicate concepts and topics that I 
 $ conda create -n 2025_stats_for_ai python=3.13 
 $ conda activate 2025_stats_for_ai
 $ conda install pip 
-$ pip install numpy scipy matplotlib jupyter scikit-learn
+$ pip install numpy scipy matplotlib jupyter scikit-learn pandas
 ```
